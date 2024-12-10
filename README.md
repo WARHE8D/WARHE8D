@@ -1,9 +1,13 @@
 ## o/
 
 🐍 Currently indulged in C#
+
 ☕ Can code in Java
+
 🤖 Pretty much confident in AI
+
 💪 Love to practice the hard way (because easy is overrated)
+
 🎮 AP Twitch player — Bronze stuck 🐀 (I "W" the wave)
 
 My sensei: @emshakir 
