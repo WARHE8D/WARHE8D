@@ -10,7 +10,7 @@
 
 🎮 AP Twitch player — Bronze stuck 🐀 (I "W" the wave)
 
-My sensei: @emshakir 
+My sensei: @iamshakir 
 
 <!--
 **WARHE8D/WARHE8D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
