@@ -13,12 +13,6 @@ I'm a full-stack developer, AI enthusiast. When I’m not coding, you can probab
 - Cloud & DevOps (AWS, Docker)
 - Database Management (MySQL, PostgreSQL)
 
-## Projects:
-- [Travel Experts Web App](https://github.com/SAIT-TravelExperts-P3): A full-stack web app using Thymeleaf, Spring Boot, and more awesome tech (currently private repo).
-- [Spring JWT](https://github.com/WARHE8D/spring-jwt): A project demonstrating JWT (JSON Web Tokens) authentication in Spring applications.
-- [Multiple Database Connection](https://github.com/WARHE8D/MultipleDBConnection): A project showcasing multiple database connections and integration in a single application.
-
-
 Feel free to check out my work! When I'm not immersed in code, I'm probably watching anime or some gaming PC builds. 😄 Let’s connect!
 
 Person I still look up to: @iamshaqir
