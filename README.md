@@ -1,4 +1,4 @@
-# Hi, I'm Murtuza! 👋
+# Hi, I'm Murtuza!
 
 I'm a full-stack developer, AI enthusiast. When I’m not coding, you can probably find me gaming or watching someone build an ITX PC. My passion lies in creating compact, efficient, and user-friendly applications.
 
@@ -20,3 +20,8 @@ I'm a full-stack developer, AI enthusiast. When I’m not coding, you can probab
 
 
 Feel free to check out my work! When I'm not immersed in code, I'm probably watching anime or some gaming PC builds. 😄 Let’s connect!
+
+Person I still look up to: @iamshaqir
+
+![86AnimeShinGIF](https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8)
+
