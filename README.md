@@ -19,3 +19,4 @@ Person I still look up to: @iamshaqir
 
 ![86AnimeShinGIF](https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8)
 
+![WARHE8D's GitHub stats](https://github-readme-stats.vercel.app/api?username=WARHE8D&theme=midnight-purple&show_icons=true)
