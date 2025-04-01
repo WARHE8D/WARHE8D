@@ -17,8 +17,7 @@ Feel free to check out my work! When I'm not immersed in code, I'm probably watc
 
 Person I still look up to: @iamshaqir
 
-![86AnimeShinGIF](https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8)
-
 ![WARHE8D's GitHub stats](https://github-readme-stats.vercel.app/api?username=WARHE8D&theme=midnight-purple&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WARHE8D&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![86AnimeShinGIF](https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8)
+
