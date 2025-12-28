@@ -1,21 +1,39 @@
-# Hi, I'm Murtuza!
+# Hi, I'm Murtuza! 🚀
 
-I'm a full-stack developer, AI enthusiast. When I’m not coding, you can probably find me gaming or watching someone build an ITX PC. My passion lies in creating compact, efficient, and user-friendly applications.
+**Senior Software Engineer | AI & Machine Learning Enthusiast | ITX Aficionado**
 
-## About Me:
-- **Background**: I have a degree in Computer Science and a graduate certificate in AI with Machine Learning.
-- **Experience**: I've worked as a full-stack developer, building Java-based applications, developing APIs, and optimizing system performance. I also enjoy diving into AI projects, particularly reinforcement learning and NLP.
-- **What I’m up to**: Currently studying Object-Oriented Software Development at SAIT while balancing my love for tech and gaming.
+I’m a full-stack developer who loves the challenge of squeezing maximum performance out of every line of code—much like trying to fit a 7600XT into a ITX case. With 4+ years of experience across Java, Spring Boot, React, and AI, I build enterprise-grade applications that are as scalable as they are efficient.
 
-## Skills:
-- Full Stack Development (Java, JavaScript, C#)
-- AI/ML (TensorFlow, Keras, Scikit-learn)
-- Cloud & DevOps (AWS, Docker)
-- Database Management (MySQL, PostgreSQL)
+---
 
-Feel free to check out my work! When I'm not immersed in code, I'm probably watching anime or some gaming PC builds. 😄 Let’s connect!
+### 🛠 What I’m Working On
+* **Full-Stack Excellence:** Deep-diving into classic Design Patterns to architect more resilient, high-availability backend systems using Java and Azure Cosmos DB.
+* **AI/ML Innovation:** From training reinforcement learning models for **AWS DeepRacer** (1st place champ! 🏆) to deploying NLP pipelines.
+* **Optimization:** Whether it's migrating legacy code for a 40% performance boost or optimizing SQL queries, I live for the "refactor."
 
-Person I still look up to: @iamshaqir
+### 💻 My Tech Toolbox
 
-![WARHE8D's GitHub stats](https://github-readme-stats.vercel.app/api?username=WARHE8D&theme=midnight-purple&show_icons=true)   ![86AnimeShinGIF](https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8)
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | Java, Python, C#, JavaScript (ES6+) |
+| **Frontend** | React, Bootstrap, Thymeleaf |
+| **Backend** | Spring Boot, Node.js, Express, ASP.NET Core |
+| **AI / ML** | TensorFlow, Keras, Scikit-learn, PyTorch, NLP |
+| **Cloud & DevOps** | AWS (SageMaker, EC2), Azure DevOps, Docker, CI/CD |
+| **Data** | PostgreSQL, MySQL, MongoDB, Azure Cosmos DB, Hibernate |
 
+### 🕹 Beyond the Code
+* **SFF PC Building:** I’m a sucker for ITX builds—if it’s compact and high-performance, I’m in. I recently crossed a major milestone by finally completing my **dream PC build**.
+* **Gaming & Anime:** Love getting lost in immersive worlds and masterclass storytelling. Big fan of the classics like **Steins;Gate** and modern hits like **86**.
+---
+
+### 📊 My Stats
+![Murtuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=WARHE8D&theme=midnight-purple&show_icons=true) 
+
+### 🤝 Let's Connect!
+I’m always down to talk about Java architecture, AI model deployments, or the best airflow setup for a FormD T1. 
+
+📫 **Email:** murtuzasalman88@gmail.com  
+📍 **Location:** Calgary, AB
+
+![86AnimeShinGIF](https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8)
