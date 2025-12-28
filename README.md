@@ -1,4 +1,4 @@
-# Hi, I'm Murtuza! 🚀
+# Hi, I'm Murtuza!
 
 **Senior Software Engineer | AI & Machine Learning Enthusiast | ITX Aficionado**
 
@@ -12,7 +12,11 @@ I’m a full-stack developer who loves the challenge of squeezing maximum perfor
 * **Optimization:** Whether it's migrating legacy code for a 40% performance boost or optimizing SQL queries, I live for the "refactor."
 
 ### 💻 My Tech Toolbox
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cs,js,react,spring,nodejs,express,dotnet,aws,azure,docker,kubernetes,mysql,postgres,mongodb,github,raspberrypi&perline=9" />
+  </a>
+</p>
 | Category | Tech Stack |
 | :--- | :--- |
 | **Languages** | Java, Python, C#, JavaScript (ES6+) |
@@ -22,13 +26,12 @@ I’m a full-stack developer who loves the challenge of squeezing maximum perfor
 | **Cloud & DevOps** | AWS (SageMaker, EC2), Azure DevOps, Docker, CI/CD |
 | **Data** | PostgreSQL, MySQL, MongoDB, Azure Cosmos DB, Hibernate |
 
+
 ### 🕹 Beyond the Code
 * **SFF PC Building:** I’m a sucker for ITX builds—if it’s compact and high-performance, I’m in. I recently crossed a major milestone by finally completing my **dream PC build**.
 * **Gaming & Anime:** Love getting lost in immersive worlds and masterclass storytelling. Big fan of the classics like **Steins;Gate** and modern hits like **86**.
 ---
 
-### 📊 My Stats
-![Murtuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=WARHE8D&theme=midnight-purple&show_icons=true) 
 
 ### 🤝 Let's Connect!
 I’m always down to talk about Java architecture, AI model deployments, or the best airflow setup for a FormD T1. 
