@@ -41,6 +41,7 @@ I’m always down to talk about Java architecture, AI model deployments, or the 
 📫 **Email:** murtuzasalman88@gmail.com  
 📍 **Location:** Calgary, AB
 
+Shoutout to my mentor @iamshaqir — a constant source of inspiration.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8" alt="86AnimeShinGIF" />
 </p>
