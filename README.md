@@ -17,6 +17,7 @@ I’m a full-stack developer who loves the challenge of squeezing maximum perfor
     <img src="https://skillicons.dev/icons?i=java,python,cs,js,react,spring,nodejs,express,dotnet,aws,azure,docker,kubernetes,mysql,postgres,mongodb,github,raspberrypi&perline=9" />
   </a>
 </p>
+<br/>
 | Category | Tech Stack |
 | :--- | :--- |
 | **Languages** | Java, Python, C#, JavaScript (ES6+) |
