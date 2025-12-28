@@ -18,6 +18,7 @@ I’m a full-stack developer who loves the challenge of squeezing maximum perfor
   </a>
 </p>
 <br/>
+
 | Category | Tech Stack |
 | :--- | :--- |
 | **Languages** | Java, Python, C#, JavaScript (ES6+) |
@@ -35,9 +36,11 @@ I’m a full-stack developer who loves the challenge of squeezing maximum perfor
 
 
 ### 🤝 Let's Connect!
-I’m always down to talk about Java architecture, AI model deployments, or the best airflow setup for a FormD T1. 
+I’m always down to talk about Java architecture, AI model deployments, or the best airflow setup for a FormD T1.
 
 📫 **Email:** murtuzasalman88@gmail.com  
 📍 **Location:** Calgary, AB
 
-![86AnimeShinGIF](https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9d8757c-d2bd-4f83-a8b3-6d256291a4d8" alt="86AnimeShinGIF" />
+</p>
